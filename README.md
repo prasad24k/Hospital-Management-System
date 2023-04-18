@@ -1,6 +1,6 @@
 # Hospital Management System
 Hospital Management System using MySQL, Php and Bootstrap
- [Hospital Management System - 000webhost by walli](walliprasad24k@gmail.com)
+by walli (walliprasad24k@gmail.com)
 ## Need to work on:
 1. Ability to accept the appointment by the doctor to acknowledge the patient that their appointment has been approved.
 2. User should not be allowed to register if he/she tries to provide the already registered email ID.
